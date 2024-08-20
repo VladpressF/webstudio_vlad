@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'webStudio';
-  src:  url('fonts/webStudio.eot?tgpcm7');
-  src:  url('fonts/webStudio.eot?tgpcm7#iefix') format('embedded-opentype'),
-    url('fonts/webStudio.ttf?tgpcm7') format('truetype'),
-    url('fonts/webStudio.woff?tgpcm7') format('woff'),
-    url('fonts/webStudio.svg?tgpcm7#webStudio') format('svg');
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?1i7qrq');
+  src:  url('fonts/icomoon.eot?1i7qrq#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?1i7qrq') format('truetype'),
+    url('fonts/icomoon.woff?1i7qrq') format('woff'),
+    url('fonts/icomoon.svg?1i7qrq#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -12,7 +12,7 @@
 
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'webStudio' !important;
+  font-family: 'icomoon' !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
@@ -25,57 +25,57 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-antenna-1:before {
+.icon-antenna:before {
   content: "\e900";
 }
-.icon-astronaut-1:before {
+.icon-astronaut:before {
   content: "\e901";
 }
-.icon-clock-1:before {
+.icon-clock:before {
   content: "\e902";
 }
-.icon-diagram-1:before {
+.icon-diagram:before {
   content: "\e903";
 }
-.icon-envelope:before {
+.icon-envelope-hover:before {
   content: "\e904";
 }
-.icon-facebook-1:before {
+.icon-facebook:before {
+  content: "\e911";
+}
+.icon-instagram:before {
   content: "\e905";
 }
-.icon-instagram-2:before {
+.icon-linkedin:before {
   content: "\e906";
 }
-.icon-linkedin-1:before {
+.icon-Logo1:before {
   content: "\e907";
 }
-.icon-Logo-1:before {
+.icon-Logo2:before {
   content: "\e908";
 }
-.icon-Logo-2:before {
+.icon-Logo3:before {
   content: "\e909";
 }
-.icon-Logo-3:before {
+.icon-Logo4:before {
   content: "\e90a";
 }
-.icon-Logo-4:before {
+.icon-Logo5:before {
   content: "\e90b";
 }
-.icon-Logo-5:before {
+.icon-Logo6:before {
   content: "\e90c";
 }
-.icon-Logo-6:before {
+.icon-smartphone:before {
   content: "\e90d";
 }
-.icon-Logo:before {
+.icon-twitter:before {
   content: "\e90e";
 }
-.icon-smartphone:before {
+.icon-WebStudio-1:before {
   content: "\e90f";
 }
-.icon-twitter-1:before {
+.icon-WebStudio:before {
   content: "\e910";
-}
-.icon-WebStudio-1:before {
-  content: "\e911";
 }

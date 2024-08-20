@@ -1,0 +1,81 @@
+@font-face {
+  font-family: 'webStudio';
+  src:  url('fonts/webStudio.eot?tgpcm7');
+  src:  url('fonts/webStudio.eot?tgpcm7#iefix') format('embedded-opentype'),
+    url('fonts/webStudio.ttf?tgpcm7') format('truetype'),
+    url('fonts/webStudio.woff?tgpcm7') format('woff'),
+    url('fonts/webStudio.svg?tgpcm7#webStudio') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'webStudio' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-antenna-1:before {
+  content: "\e900";
+}
+.icon-astronaut-1:before {
+  content: "\e901";
+}
+.icon-clock-1:before {
+  content: "\e902";
+}
+.icon-diagram-1:before {
+  content: "\e903";
+}
+.icon-envelope:before {
+  content: "\e904";
+}
+.icon-facebook-1:before {
+  content: "\e905";
+}
+.icon-instagram-2:before {
+  content: "\e906";
+}
+.icon-linkedin-1:before {
+  content: "\e907";
+}
+.icon-Logo-1:before {
+  content: "\e908";
+}
+.icon-Logo-2:before {
+  content: "\e909";
+}
+.icon-Logo-3:before {
+  content: "\e90a";
+}
+.icon-Logo-4:before {
+  content: "\e90b";
+}
+.icon-Logo-5:before {
+  content: "\e90c";
+}
+.icon-Logo-6:before {
+  content: "\e90d";
+}
+.icon-Logo:before {
+  content: "\e90e";
+}
+.icon-smartphone:before {
+  content: "\e90f";
+}
+.icon-twitter-1:before {
+  content: "\e910";
+}
+.icon-WebStudio-1:before {
+  content: "\e911";
+}
